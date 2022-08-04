@@ -1,0 +1,10 @@
+﻿{
+  "id": "rotisserieog",
+  "name": "Rotessirie Chicken",
+  "author": "FruitsyOG",
+  "description": "For some reason this was funny.. you may just find it funny as well.",
+  "version": "1.0",
+  "load_after": [
+    "simplesrmodlibrary"
+  ]
+}
